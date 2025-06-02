@@ -1,0 +1,5 @@
+#include "pic.h"
+
+int main() {
+  return 0;
+}
